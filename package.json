@@ -1,0 +1,37 @@
+{
+  "name": "fem-dklt-toggle",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000F\u0000E\u0000M\u0000-\u0000D\u0000K\u0000L\u0000T\u0000-\u0000T\u0000o\u0000g\u0000g\u0000l\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafahfh00/FEM-DKLT-Toggle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafahfh00/FEM-DKLT-Toggle/issues"
+  },
+  "homepage": "https://github.com/mustafahfh00/FEM-DKLT-Toggle#readme",
+  "dependencies": {
+    "dart-sass": "^1.25.0",
+    "postcss": "^8.5.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0",
+    "autoprefixer": "^10.4.21",
+    "browser-sync": "^3.0.4",
+    "cssnano": "^7.1.0",
+    "gulp": "^5.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-postcss": "^10.0.0",
+    "gulp-sass": "^6.0.1",
+    "gulp-terser": "^2.1.0",
+    "sass": "^1.89.2"
+  }
+}
